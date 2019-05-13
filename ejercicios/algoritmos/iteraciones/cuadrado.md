@@ -28,7 +28,7 @@ Alto invalido
 > Ingrese alto: 0
 > Ingrese ancho: cincuenta
 
-Ancho invalido
+alto invalido
 
 > Ingrese alto: 1
 > Ingrese ancho: 1
